@@ -1,0 +1,46 @@
+.btn{	
+	padding-top:8px;
+	padding-bottom:8px;
+	padding-left:12px;
+	padding-right:12px;
+	border-radius: 	5px;
+	border-color: black;
+	border-width: 2px;
+	border-style: solid;
+}
+.btn-primary{
+	background-color: grey;
+	color: white;
+}
+.btn-secondary{
+	background-color: blue;
+	color: white;
+}
+.btn-yes{
+	background-color: #cc3363;
+	color: white;
+}
+.btn-disabled{
+	background-color: violet;
+	color: white;
+}
+.btn-sucess{
+	background-color: green;
+	color: white;
+}
+.btn-danger{
+	background-color: red;
+	color: white;
+}
+.btn-small{
+	background-color: lightblue;
+	color: black;
+}
+.btn-big{
+	background-color: darkblue;
+	color: white;
+}
+.btn-normal{
+	background-color: pink;
+	color: black;
+}
