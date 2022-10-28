@@ -1,0 +1,42 @@
+h1 {
+	color: #CC3363;
+	font-family: "Open Sans";
+}
+
+p {
+	color: black;
+	font-family: "Raleway";
+	font-weight: 300;
+}
+
+body {
+	background-color:#b4b4b4;
+}
+
+head {
+	background-color: #ffe8d6;
+}
+header {
+	background-color: black;
+
+}
+nav{
+	text-align:center;
+	font-family: "PT Serif";
+	padding-top: 20px;
+	padding-bottom:20px;
+	flex-wrap:;
+}
+
+.nav {
+	margin-right:30px;
+}
+
+a {
+	text-decoration:none;
+	color:orange;
+	font-size:30px;
+}
+ul{
+	list-style:none;
+}
